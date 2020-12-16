@@ -1,0 +1,33 @@
+Script started on 2019-01-31 20:59:10-0500
+]0;millerm30@hopper: ~/CSCI207/LABS/LAB4millerm30@hopper:~/CSCI207/LABS/LAB4$ LAB4_2_daysOfChristmasls[KLAB4_2_daysOfChristmasNoBreak
+Please enter one of the days of The Twelve Days of Christmas to see the appropriate gift! (Valid values are between 1 and 12): 60
+
+You have entered an invalid value for one of the Twelve Days of Christmas. Please enter a value between 1 and 12: 55
+You have entered an invalid value for one of the Twelve Days of Christmas. Please enter a value between 1 and 12: -100
+You have entered an invalid value for one of the Twelve Days of Christmas. Please enter a value between 1 and 12: 11
+Eleven pipers piping.
+Ten lords a-leaping'.
+Nine ladies dancing.
+Eight maids a-milking.
+Seven swans a-swimming.
+Six geese a-laying.
+Five gold rings.
+Four calling birds.
+Three French hens.
+Two turtle doves.
+A partridge in a pear tree.
+]0;millerm30@hopper: ~/CSCI207/LABS/LAB4millerm30@hopper:~/CSCI207/LABS/LAB4$ LAB4_2_daysOfChristmasNoBreak
+Please enter one of the days of The Twelve Days of Christmas to see the appropriate gift! (Valid values are between 1 and 12): 4 14
+
+You have entered an invalid value for one of the Twelve Days of Christmas. Please enter a value between 1 and 12: 13
+You have entered an invalid value for one of the Twelve Days of Christmas. Please enter a value between 1 and 12: 0
+You have entered an invalid value for one of the Twelve Days of Christmas. Please enter a value between 1 and 12: 6
+Six geese a-laying.
+Five gold rings.
+Four calling birds.
+Three French hens.
+Two turtle doves.
+A partridge in a pear tree.
+]0;millerm30@hopper: ~/CSCI207/LABS/LAB4millerm30@hopper:~/CSCI207/LABS/LAB4$ exit
+
+Script done on 2019-01-31 20:59:39-0500

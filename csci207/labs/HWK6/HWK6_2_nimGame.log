@@ -1,0 +1,31 @@
+Script started on 2019-03-19 23:42:18-0400
+]0;millerm30@hopper: ~/CSCI207/LABS/HWK6millerm30@hopper:~/CSCI207/LABS/HWK6$ HWK6-[K=[K_2_nimGame
+Please enter player name: mas
+
+mas remove items from the heap (between 1 and 3): 3
+
+Computer chooses: 1
+mas remove items from the heap (between 1 and 3): 3
+
+Computer chooses: 1
+mas remove items from the heap (between 1 and 3): 3
+
+Computer chooses: 3
+mas remove items from the heap (between 1 and 3): 3
+
+Computer chooses: 1
+mas remove items from the heap (between 1 and 3): 2
+
+Computer chooses: 1
+mas remove items from the heap (between 1 and 3): 0
+
+Please choose a value between 1 and 3: 4
+
+Please choose a value between 1 and 3: 2
+
+Heap empty! Player wins!
+^C
+]0;millerm30@hopper: ~/CSCI207/LABS/HWK6millerm30@hopper:~/CSCI207/LABS/HWK6$ ^C
+]0;millerm30@hopper: ~/CSCI207/LABS/HWK6millerm30@hopper:~/CSCI207/LABS/HWK6$ HWK6_2_nimGame[K[K[K[K[K[K[K[K[K[K[K[K[K[Kexit
+
+Script done on 2019-03-19 23:43:04-0400

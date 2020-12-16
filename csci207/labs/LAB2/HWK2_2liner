@@ -1,0 +1,22 @@
+/* HWK2
+ Mason Miller
+ File will print out "Mason" and "Congrats to me! My first
+ C++ program!"
+ print "Mason" print "Congrats to me! My first C++ program!"
+*/
+
+#include <iostream>
+#include <cstdlib>
+
+using namespace std;
+
+int main()
+{
+
+ cout << "Mason" << endl;
+
+ cout << "Congrats to me! My first C++ program!" endl;
+ 
+ return EXIT_SUCCESS
+
+}

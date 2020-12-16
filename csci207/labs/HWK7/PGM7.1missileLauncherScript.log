@@ -1,0 +1,46 @@
+Script started on 2019-04-02 17:58:30-0400
+]0;millerm30@hopper: ~/CSCI207/LABS/HWK7millerm30@hopper:~/CSCI207/LABS/HWK7$ script PGM7.1missileLauncherScript.log[3P7.1missileLauncherScript.logPGM7.1missileLauncherScript.log[Kscript PGM7.1missileLauncherScript.log[C[K[K[K[K[K[K[K[K[K[K[1PPGM7.1missileLauncher[1PPGM7.1missileLauncher[1PPGM7.1missileLauncher[1PPGM7.1missileLauncher[1PPGM7.1missileLauncher[1PPGM7.1missileLauncher[1PPGM7.1missileLauncher
+Please enter a target distance: 10
+
+Please enter a projectile angle (between 0 and 90): -1
+Angle value outside defined parameters. Please enter a new angle value (between 0 and 90): 91
+Angle value outside defined parameters. Please enter a new angle value (between 0 and 90): 80
+
+Please enter a projectile velocity (in feet/second): 30
+
+You were 0.440431 from the target.
+Please enter a projectile angle (between 0 and 90): 1
+
+Please enter a projectile velocity (in feet/second): 1
+
+You were 9.99892 from the target.
+Please enter a projectile angle (between 0 and 90): 10  20
+
+Please enter a projectile velocity (in feet/second): 20
+
+You were 2.01506 from the target.
+Please enter a projectile angle (between 0 and 90): 40  30
+
+Please enter a projectile velocity (in feet/second): 2555555
+
+You were 1.75649e+11 from the target.
+Please enter a projectile angle (between 0 and 90): 30  
+
+Please enter a projectile velocity (in feet/second): 24444  
+
+You were 1591.23 from the target.
+Try again next time!]0;millerm30@hopper: ~/CSCI207/LABS/HWK7millerm30@hopper:~/CSCI207/LABS/HWK7$ PGM7.1missileLauncher
+Please enter a target distance: 10
+
+Please enter a projectile angle (between 0 and 90): 23
+
+Please enter a projectile velocity (in feet/second): 20
+
+You were 1.0641 from the target.
+Please enter a projectile angle (between 0 and 90): 20
+
+Please enter a projectile velocity (in feet/second): 22.38
+
+You win!]0;millerm30@hopper: ~/CSCI207/LABS/HWK7millerm30@hopper:~/CSCI207/LABS/HWK7$ exit
+
+Script done on 2019-04-02 17:59:55-0400

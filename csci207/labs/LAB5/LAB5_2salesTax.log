@@ -1,0 +1,18 @@
+Script started on 2019-02-12 22:35:43-0500
+]0;millerm30@hopper: ~/CSCI207/LABS/LAB5millerm30@hopper:~/CSCI207/LABS/LAB5$ LAB5_2_sca[K[KalesTax
+Please type the month: January
+Please type the year: 2019
+Please type how much money was collected at the register: 26572.89
+
+
+Monthly: January 2019
+
+-------------------------------------
+Total Collected:             $ 26572.89
+Sales:                       $ 25068.76
+County Sales Tax:            $ 501.38
+State Sales Tax:             $ 1002.75
+Total Sales Tax:             $ 1504.13
+]0;millerm30@hopper: ~/CSCI207/LABS/LAB5millerm30@hopper:~/CSCI207/LABS/LAB5$ exit
+
+Script done on 2019-02-12 22:36:08-0500

@@ -1,0 +1,92 @@
+Script started on 2019-02-05 02:45:35-0500
+]0;millerm30@hopper: ~/CSCI207/LABS/HWK4millerm30@hopper:~/CSCI207/LABS/HWK4$ HWK4_2_updatedCalcscript HWK4_2_script.log[6PHWK4_2_updatedCalc
+You will enter two numbers and then input what operation you would like to be performed on the numbers.
+
+Please input your first number: 5
+
+Please input your second number: 2
+
+
+|--------------------------------|
+|  Type + for addition           |
+|                                |
+|  Type - for subtraction        |
+|                                |
+|  Type * for multiplication     |
+|                                |
+|  Type / for division           |
+|________________________________|
+
+5+ 
+You have entered an invalid operation character. Please enter a new operation selection: 9
+You have entered an invalid operation character. Please enter a new operation selection: m
+You have entered an invalid operation character. Please enter a new operation selection: k
+You have entered an invalid operation character. Please enter a new operation selection: +
+
+Addition: 5 + 2 = 7
+]0;millerm30@hopper: ~/CSCI207/LABS/HWK4millerm30@hopper:~/CSCI207/LABS/HWK4$ HWK4_2_updatedCalc
+You will enter two numbers and then input what operation you would like to be performed on the numbers.
+
+Please input your first number: 6
+
+Please input your second number: 8
+
+
+|--------------------------------|
+|  Type + for addition           |
+|                                |
+|  Type - for subtraction        |
+|                                |
+|  Type * for multiplication     |
+|                                |
+|  Type / for division           |
+|________________________________|
+
+-
+
+Subtraction: 6 - 8 = -2
+]0;millerm30@hopper: ~/CSCI207/LABS/HWK4millerm30@hopper:~/CSCI207/LABS/HWK4$ HWK4_2_updatedCalc
+You will enter two numbers and then input what operation you would like to be performed on the numbers.
+
+Please input your first number: 15
+
+Please input your second number: 9
+
+
+|--------------------------------|
+|  Type + for addition           |
+|                                |
+|  Type - for subtraction        |
+|                                |
+|  Type * for multiplication     |
+|                                |
+|  Type / for division           |
+|________________________________|
+
+*
+
+Multiplication: 15 * 9 = 135
+]0;millerm30@hopper: ~/CSCI207/LABS/HWK4millerm30@hopper:~/CSCI207/LABS/HWK4$ HWK4_2_updatedCalc
+You will enter two numbers and then input what operation you would like to be performed on the numbers.
+
+Please input your first number: 45
+
+Please input your second number: 13
+
+
+|--------------------------------|
+|  Type + for addition           |
+|                                |
+|  Type - for subtraction        |
+|                                |
+|  Type * for multiplication     |
+|                                |
+|  Type / for division           |
+|________________________________|
+
+/
+
+Division: 45 / 13 = 3
+]0;millerm30@hopper: ~/CSCI207/LABS/HWK4millerm30@hopper:~/CSCI207/LABS/HWK4$ exit
+
+Script done on 2019-02-05 02:46:17-0500

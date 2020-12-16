@@ -1,0 +1,36 @@
+Script started on 2019-01-29 16:01:24-0500
+]0;millerm30@hopper: ~/CSCI207/LABS/LAB4millerm30@hopper:~/CSCI207/LABS/LAB4$ LAB4_1_payCalc
+Input pay rate: 16
+
+Input hours worked: 0
+
+Please input a valid range for hours worked. Valid ranges are 1-99: 0
+
+Please input a valid range for hours worked. Valid ranges are 1-99: 101
+
+Please input a valid range for hours worked. Valid ranges are 1-99: 100
+
+Please input a valid range for hours worked. Valid ranges are 1-99: 15
+
+Hours worked: 15
+Pay rate: 16
+Gross pay: 240
+]0;millerm30@hopper: ~/CSCI207/LABS/LAB4millerm30@hopper:~/CSCI207/LABS/LAB4$ LAB4_1_payCalc
+Input pay rate: 17
+
+Input hours worked: 49
+
+Hours worked: 49
+Pay rate: 17
+Gross pay: 909.5
+]0;millerm30@hopper: ~/CSCI207/LABS/LAB4millerm30@hopper:~/CSCI207/LABS/LAB4$ LAB4_1_payCalc
+Input pay rate: 19
+
+Input hours worked: 58
+
+Hours worked: 58
+Pay rate: 19
+Gross pay: 1273
+]0;millerm30@hopper: ~/CSCI207/LABS/LAB4millerm30@hopper:~/CSCI207/LABS/LAB4$ exit
+
+Script done on 2019-01-29 16:02:20-0500

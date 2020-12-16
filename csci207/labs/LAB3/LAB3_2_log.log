@@ -1,0 +1,97 @@
+Script started on 2019-01-22 15:49:04-0500
+]0;millerm30@hopper: ~/CSCI207/LABS/LAB3millerm30@hopper:~/CSCI207/LABS/LAB3$ ls
+LAB3_2_intError.cpp  LAB3_2_log.log  LAB3.cpp        LAB3.o           LAB3.txt
+LAB3_2_intError.o    [0m[01;32mLAB3_2_run[0m      [01;32mLAB3executable[0m  LAB3script_file
+]0;millerm30@hopper: ~/CSCI207/LABS/LAB3millerm30@hopper:~/CSCI207/LABS/LAB3$ LAB3_2_run
+For this compiler: 
+largest integer is 2147483647
+smallest integer is -2147483648
+size of an integer is 4 bytes. 
+size of a char is 1 byte. 
+largest short is 32767
+smallest short is -32768
+largest unsigned short is 65535
+largest long is 9223372036854775807
+smallest long is -9223372036854775808
+Input an integer value 
+1
+Enter a character value 
+fffff
+Enter a short value 
+Enter an unsigned short value 
+Enter a long value 
+
+You entered the following values: 
+integer: 1
+character: f
+short: 0
+unsigned short: 7902
+long: 140737121586992
+Ten times short value: sh = 0
+]0;millerm30@hopper: ~/CSCI207/LABS/LAB3millerm30@hopper:~/CSCI207/LABS/LAB3$ LAB_3_2r[K[K[K[K[K[K[K[Kls
+LAB3_2_intError.cpp  LAB3_2_log.log  LAB3.cpp        LAB3.o           LAB3.txt
+LAB3_2_intError.o    [0m[01;32mLAB3_2_run[0m      [01;32mLAB3executable[0m  LAB3script_file
+]0;millerm30@hopper: ~/CSCI207/LABS/LAB3millerm30@hopper:~/CSCI207/LABS/LAB3$ LAB3_2_run
+For this compiler: 
+largest integer is 2147483647
+smallest integer is -2147483648
+size of an integer is 4 bytes. 
+size of a char is 1 byte. 
+largest short is 32767
+smallest short is -32768
+largest unsigned short is 65535
+largest long is 9223372036854775807
+smallest long is -9223372036854775808
+Input an integer value 
+1
+Enter a character value 
+a
+Enter a short value 
+200
+Enter an unsigned short value 
+13
+Enter a long value 
+1400
+
+You entered the following values: 
+integer: 1
+character: a
+short: 200
+unsigned short: 13
+long: 1400
+Ten times short value: sh = 2000
+]0;millerm30@hopper: ~/CSCI207/LABS/LAB3millerm30@hopper:~/CSCI207/LABS/LAB3$ LAB_3_2_run
+LAB_3_2_run: command not found
+]0;millerm30@hopper: ~/CSCI207/LABS/LAB3millerm30@hopper:~/CSCI207/LABS/LAB3$ ls
+LAB3_2_intError.cpp  LAB3_2_log.log  LAB3.cpp        LAB3.o           LAB3.txt
+LAB3_2_intError.o    [0m[01;32mLAB3_2_run[0m      [01;32mLAB3executable[0m  LAB3script_file
+]0;millerm30@hopper: ~/CSCI207/LABS/LAB3millerm30@hopper:~/CSCI207/LABS/LAB3$ LAB3_2_run
+For this compiler: 
+largest integer is 2147483647
+smallest integer is -2147483648
+size of an integer is 4 bytes. 
+size of a char is 1 byte. 
+largest short is 32767
+smallest short is -32768
+largest unsigned short is 65535
+largest long is 9223372036854775807
+smallest long is -9223372036854775808
+Input an integer value 
+5000000
+Enter a character value 
+jdflk     1290
+Enter a short value 
+Enter an unsigned short value 
+f
+Enter a long value 
+
+You entered the following values: 
+integer: 5000000
+character: 1
+short: 290
+unsigned short: 0
+long: 140723276903520
+Ten times short value: sh = 2900
+]0;millerm30@hopper: ~/CSCI207/LABS/LAB3millerm30@hopper:~/CSCI207/LABS/LAB3$ exit
+
+Script done on 2019-01-22 15:50:23-0500

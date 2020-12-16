@@ -1,0 +1,20 @@
+Script started on 2019-03-11 18:15:25-0400
+]0;millerm30@hopper: ~/CSCI207/LABS/HWK6millerm30@hopper:~/CSCI207/LABS/HWK6$ babyNames2
+Please enter a user: Walter
+Walter ranks 376 in popularity among boys.
+Walter does not rank in the top 1000 girls.
+]0;millerm30@hopper: ~/CSCI207/LABS/HWK6millerm30@hopper:~/CSCI207/LABS/HWK6$ babyNames2
+Please enter a user: Avery
+Avery ranks 13 in popularity among girls.
+Avery ranks 187 in popularity among boys.
+]0;millerm30@hopper: ~/CSCI207/LABS/HWK6millerm30@hopper:~/CSCI207/LABS/HWK6$ babyNames2
+Please enter a user: Justice
+Justice ranks 518 in popularity among girls.
+Justice ranks 519 in popularity among boys.
+]0;millerm30@hopper: ~/CSCI207/LABS/HWK6millerm30@hopper:~/CSCI207/LABS/HWK6$ babyNames2
+Please enter a user: Adam
+Adam ranks 82 in popularity among boys.
+Adam does not rank in the top 1000 girls.
+]0;millerm30@hopper: ~/CSCI207/LABS/HWK6millerm30@hopper:~/CSCI207/LABS/HWK6$ exit
+
+Script done on 2019-03-11 18:15:44-0400

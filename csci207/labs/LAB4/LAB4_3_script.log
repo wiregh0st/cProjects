@@ -1,0 +1,44 @@
+Script started on 2019-02-05 15:17:05-0500
+]0;millerm30@hopper: ~/CSCI207/LABS/LAB4millerm30@hopper:~/CSCI207/LABS/LAB4$ s[KLAB4_3_switchRPS
+Please enter player 1 name: mas
+
+Player 1, please choose 1 for ROCK, 2 for SCISSORS, or 3 for PAPER : 2
+
+
+You chose SCISSORS.
+
+Computer chose PAPER.
+
+User wins!]0;millerm30@hopper: ~/CSCI207/LABS/LAB4millerm30@hopper:~/CSCI207/LABS/LAB4$ LAB4_3_switchRPS
+Please enter player 1 name: mas
+
+Player 1, please choose 1 for ROCK, 2 for SCISSORS, or 3 for PAPER : 1
+
+
+You chose ROCK.
+
+Computer chose PAPER.
+
+Computer wins!]0;millerm30@hopper: ~/CSCI207/LABS/LAB4millerm30@hopper:~/CSCI207/LABS/LAB4$ LAB4_3_switchRPS
+Please enter player 1 name: m
+
+Player 1, please choose 1 for ROCK, 2 for SCISSORS, or 3 for PAPER : 3
+
+
+You chose PAPER.
+
+Computer chose SCISSORS.
+
+Computer wins!]0;millerm30@hopper: ~/CSCI207/LABS/LAB4millerm30@hopper:~/CSCI207/LABS/LAB4$ LAB4_3_switchRPS
+Please enter player 1 name: mas
+
+Player 1, please choose 1 for ROCK, 2 for SCISSORS, or 3 for PAPER : 2
+
+
+You chose SCISSORS.
+
+Computer chose ROCK.
+
+Computer wins!]0;millerm30@hopper: ~/CSCI207/LABS/LAB4millerm30@hopper:~/CSCI207/LABS/LAB4$ exit
+
+Script done on 2019-02-05 15:17:52-0500

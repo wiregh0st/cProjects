@@ -1,0 +1,48 @@
+Script started on 2019-01-30 22:11:20-0500
+]0;millerm30@hopper: ~/CSCI207/LABS/HWK4millerm30@hopper:~/CSCI207/LABS/HWK4$ HWK4_1_semCost
+***Before beginning, please ensure CAPS-LOCK is turned OFF.***
+
+Will you be an in-state student or an out-of-state student? Type i for IN-STATE, Type o for OUT-OF-STATE: l
+
+You have entered an invalid character for your tuition status. CAPS-LOCK MIGHT BE ON! Type i for IN-STATE, Type o for OUT-OF-STATE: m
+
+You have entered an invalid character for your tuition status. CAPS-LOCK MIGHT BE ON! Type i for IN-STATE, Type o for OUT-OF-STATE: e
+
+You have entered an invalid character for your tuition status. CAPS-LOCK MIGHT BE ON! Type i for IN-STATE, Type o for OUT-OF-STATE: r
+
+You have entered an invalid character for your tuition status. CAPS-LOCK MIGHT BE ON! Type i for IN-STATE, Type o for OUT-OF-STATE: i
+
+Will you require a room? Type y for YES, Type n for NO: l
+
+You have entered an invalid character for your room requirements. CAPS-LOCK MIGHT BE ON! Please Type y for YES, Type n for NO: m
+
+You have entered an invalid character for your room requirements. CAPS-LOCK MIGHT BE ON! Please Type y for YES, Type n for NO: u
+
+You have entered an invalid character for your room requirements. CAPS-LOCK MIGHT BE ON! Please Type y for YES, Type n for NO: y
+
+Will you require a meal plan? Type y for YES, Type n for NO: p
+
+You have entered an invalid character for your meal requirements. CAPS-LOCK MIGHT BE ON! Please Type y for YES, Type n for NO: oi 
+
+You have entered an invalid character for your meal requirements. CAPS-LOCK MIGHT BE ON! Please Type y for YES, Type n for NO: 1
+
+You have entered an invalid character for your meal requirements. CAPS-LOCK MIGHT BE ON! Please Type y for YES, Type n for NO: y
+
+The total cost to attend Winthrop will be:
+
+Tuition: 7615	Room: 2029	Meal plan: 1766	Total cost: 11435
+]0;millerm30@hopper: ~/CSCI207/LABS/HWK4millerm30@hopper:~/CSCI207/LABS/HWK4$ HWK4_1_semCost
+***Before beginning, please ensure CAPS-LOCK is turned OFF.***
+
+Will you be an in-state student or an out-of-state student? Type i for IN-STATE, Type o for OUT-OF-STATE: o
+
+Will you require a room? Type y for YES, Type n for NO: n
+
+Will you require a meal plan? Type y for YES, Type n for NO: n
+
+The total cost to attend Winthrop will be:
+
+Tuition: 14743	Room: 0	Meal plan: 0	Total cost: 14768
+]0;millerm30@hopper: ~/CSCI207/LABS/HWK4millerm30@hopper:~/CSCI207/LABS/HWK4$ exit
+
+Script done on 2019-01-30 22:12:08-0500

@@ -1,0 +1,44 @@
+Script started on 2019-03-21 23:16:29-0400
+]0;millerm30@hopper: ~/CSCI207/LABS/LAB7millerm30@hopper:~/CSCI207/LABS/LAB7$ sc[K[KLAB7_2_kl[K[KoverloadMax
+Please enter a number for a: 100
+
+Please enter a number for b: 200
+
+Please enter a number for c: 300
+
+Max value is: 300
+]0;millerm30@hopper: ~/CSCI207/LABS/LAB7millerm30@hopper:~/CSCI207/LABS/LAB7$ LAB7_2_overloadMax
+Please enter a number for a: 300
+
+Please enter a number for b: 200
+
+Please enter a number for c: 100
+
+Max value is: 300
+]0;millerm30@hopper: ~/CSCI207/LABS/LAB7millerm30@hopper:~/CSCI207/LABS/LAB7$ LAB7_2_overloadMax
+Please enter a number for a: 10
+
+Please enter a number for b: 50
+
+Please enter a number for c: 73
+
+Max value is: 73
+]0;millerm30@hopper: ~/CSCI207/LABS/LAB7millerm30@hopper:~/CSCI207/LABS/LAB7$ LAB7_2_overloadMax
+Please enter a number for a: 100
+
+Please enter a number for b: 50 2
+
+Please enter a number for c: 0 1098
+
+Max value is: 1098
+]0;millerm30@hopper: ~/CSCI207/LABS/LAB7millerm30@hopper:~/CSCI207/LABS/LAB7$ LAB7_2_overloadMax
+Please enter a number for a: 132
+
+Please enter a number for b: 1489
+
+Please enter a number for c: 101
+
+Max value is: 1489
+]0;millerm30@hopper: ~/CSCI207/LABS/LAB7millerm30@hopper:~/CSCI207/LABS/LAB7$ exit
+
+Script done on 2019-03-21 23:17:15-0400

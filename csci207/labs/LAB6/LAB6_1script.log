@@ -1,0 +1,19 @@
+Script started on 2019-02-21 21:27:29-0500
+]0;millerm30@hopper: ~/CSCI207/LABS/LAB6millerm30@hopper:~/CSCI207/LABS/LAB6$ A[KLAB6_)1[K[K1_fToC
+]0;millerm30@hopper: ~/CSCI207/LABS/LAB6millerm30@hopper:~/CSCI207/LABS/LAB6$ cat [K[K[K[Kcat l[KfToCdata.dat
+80.5 73 61.8 76 92 28 21.4 18 32 97]0;millerm30@hopper: ~/CSCI207/LABS/LAB6millerm30@hopper:~/CSCI207/LABS/LAB6$ cat fToCdataUpdated.dat
+Fahrenheit        Centigrade
+
+      80.5               26.9
+      73.0               22.8
+      61.8               16.6
+      76.0               24.4
+      92.0               33.3
+      28.0               -2.2
+      21.4               -5.9
+      18.0               -7.8
+      32.0               0.0
+      97.0               36.1
+]0;millerm30@hopper: ~/CSCI207/LABS/LAB6millerm30@hopper:~/CSCI207/LABS/LAB6$ exit
+
+Script done on 2019-02-21 21:30:11-0500

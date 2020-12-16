@@ -1,0 +1,35 @@
+Script started on 2019-04-02 22:45:52-0400
+]0;millerm30@hopper: ~/CSCI207/LABS/LAB7millerm30@hopper:~/CSCI207/LABS/LAB7$ g++ -o LAB7_4_Statistics LAB7_4_Statistics..cpp[A]0;millerm30@hopper: ~/CSCI207/LABS/LAB7millerm30@hopper:~/CSCI207/LABS/LAB7$ ls[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cg++ -o LAB7_4_Statistics LAB7_4_Statistics..cpp[A]0;millerm30@hopper: ~/CSCI207/LABS/LAB7millerm30@hopper:~/CSCI207/LABS/LAB7$ [K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CLAB7_4_Statitisc[K[K[K[Kstics
+mean: 11.3
+standard deviation: 1.68375
+Type 0 to continue running. Type 1 to exit: f
+You entered an incorrect value. Please enter a number: f a
+
+You entered an incorrect value. Please enter a number: 1
+
+mean: 11.3
+standard deviation: 1.68375
+]0;millerm30@hopper: ~/CSCI207/LABS/LAB7millerm30@hopper:~/CSCI207/LABS/LAB7$ LAB7_4_Statistics
+mean: 11.3
+standard deviation: 1.68375
+Type 0 to continue running. Type 1 to exit: f
+You entered an incorrect value. Please enter a number: a
+
+You entered an incorrect value. Please enter a number: 0
+
+mean: 11.3
+standard deviation: 1.68375
+Type 0 to continue running. Type 1 to exit: 0
+mean: 11.3
+standard deviation: 1.68375
+Type 0 to continue running. Type 1 to exit: 0
+mean: 11.3
+standard deviation: 1.68375
+Type 0 to continue running. Type 1 to exit: 1
+mean: 11.3
+standard deviation: 1.68375
+]0;millerm30@hopper: ~/CSCI207/LABS/LAB7millerm30@hopper:~/CSCI207/LABS/LAB7$ exit
+
+Script done on 2019-04-02 22:46:15-0400

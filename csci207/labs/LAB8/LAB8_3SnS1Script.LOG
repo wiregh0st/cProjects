@@ -1,0 +1,83 @@
+Script started on 2019-04-16 23:50:14-0400
+]0;millerm30@hopper: ~/CSCI207/LABS/LAB8millerm30@hopper:~/CSCI207/LABS/LAB8$ LAB8_3_SnSScript[K[K[K[K[K[K1.[K
+LAB8_3_SnS1: command not found
+]0;millerm30@hopper: ~/CSCI207/LABS/LAB8millerm30@hopper:~/CSCI207/LABS/LAB8$ LAB8_2[K3Sns[KS1
+
+
+LINEAR SEARCH TESTS 
+
+Here is the content of the array: 
+Ones ->   0 |   1 |   2 |   3 |   4 |   5 |   6 |   7 |   8 |   9 |
+Tens ||===========================================================|
+   0 || 884 | 492 | 563 | 327 | 315 | 798 | 760 | 566 | 405 | 527 |
+   1 || 269 | 613 | 105 | 920 |  78 | 534 | 899 | 502 | 174 | 385 |
+   2 ||  19 | 770 | 974 |   6 |   4 | 217 | 692 | 373 | 991 | 846 |
+   3 || 391 | 228 | 339 | 954 | 555 |   6 | 104 | 315 | 573 | 861 |
+   4 || 194 | 194 | 474 | 299 | 114 | 553 | 185 | 366 | 407 | 359 |
+   5 || 751 | 426 | 130 | 725 | 784 | 486 | 294 | 477 | 859 | 285 |
+   6 || 323 | 602 | 865 |  14 | 908 | 421 | 373 |  12 |  88 | 298 |
+   7 || 873 | 283 | 492 | 700 | 582 | 958 | 253 | 768 | 324 |  12 |
+   8 || 479 | 427 | 790 | 609 | 504 | 574 |  96 | 798 |  51 | 307 |
+   9 || 436 | 727 | 910 | 301 |  93 | 818 |  74 | 466 | 183 | 163 |
+
+Enter the first number in the array to search for: 883 4
+  Found at position 0
+Enter the last number in the array to search for: 163
+  Should find the number at position 99
+  Found at position 99
+Enter a random number in the array to search for: 104
+  Found at position 36
+Enter a number NOT in the array to search for: 666
+  Correct: Number not found in array
+
+
+SELECTION SORT TEST  
+
+Here is the content of the array unsorted: 
+Ones ->   0 |   1 |   2 |   3 |   4 |   5 |   6 |   7 |   8 |   9 |
+Tens ||===========================================================|
+   0 || 260 |  45 | 214 | 265 | 758 | 895 | 257 | 931 | 377 | 369 |
+   1 || 618 | 144 | 290 | 711 |  45 | 506 | 275 | 488 |  90 | 415 |
+   2 || 307 | 828 | 822 | 270 | 164 | 853 | 814 | 992 | 771 | 981 |
+   3 || 940 | 384 |  27 | 506 | 649 | 785 | 753 | 258 | 716 | 131 |
+   4 || 980 | 686 | 627 | 270 | 749 | 672 | 129 |  24 | 512 | 571 |
+   5 || 439 | 172 | 399 | 262 | 442 | 916 | 467 | 609 | 260 | 591 |
+   6 || 590 | 552 | 975 | 969 |  58 | 976 | 107 | 812 | 235 | 823 |
+   7 || 295 | 567 | 862 | 922 | 837 | 611 | 594 | 318 | 636 | 458 |
+   8 || 889 | 427 | 630 | 641 |  41 | 425 | 557 | 509 | 386 | 817 |
+   9 || 100 | 328 | 369 | 427 | 298 | 779 | 403 | 405 | 943 | 990 |
+
+
+After the selection sort
+Here is the content of the array sorted: 
+Ones ->   0 |   1 |   2 |   3 |   4 |   5 |   6 |   7 |   8 |   9 |
+Tens ||===========================================================|
+   0 ||  24 |  27 |  41 |  45 |  45 |  58 |  90 | 100 | 107 | 129 |
+   1 || 131 | 144 | 164 | 172 | 214 | 235 | 257 | 258 | 260 | 260 |
+   2 || 262 | 265 | 270 | 270 | 275 | 290 | 295 | 298 | 307 | 318 |
+   3 || 328 | 369 | 369 | 377 | 384 | 386 | 399 | 403 | 405 | 415 |
+   4 || 425 | 427 | 427 | 439 | 442 | 458 | 467 | 488 | 506 | 506 |
+   5 || 509 | 512 | 552 | 557 | 567 | 571 | 590 | 591 | 594 | 609 |
+   6 || 611 | 618 | 627 | 630 | 636 | 641 | 649 | 672 | 686 | 711 |
+   7 || 716 | 749 | 753 | 758 | 771 | 779 | 785 | 812 | 814 | 817 |
+   8 || 822 | 823 | 828 | 837 | 853 | 862 | 889 | 895 | 916 | 922 |
+   9 || 931 | 940 | 943 | 969 | 975 | 976 | 980 | 981 | 990 | 992 |
+
+
+
+LINEAR SEARCH TESTS 
+
+Use the sorted array from the last test 
+Enter the first number in the array to search for: 24
+  Should find the number at position 0
+  Found at position 0
+Enter the last number in the array to search for: 992
+  Should find the number at position 99
+  Found at position 99
+Enter a random number in the array to search for: 630
+  Found at position 63
+Enter a number NOT in the array to search for: 666
+  Correct: Number not found in array
+]0;millerm30@hopper: ~/CSCI207/LABS/LAB8millerm30@hopper:~/CSCI207/LABS/LAB8$ exit
+
+Script done on 2019-04-16 23:51:05-0400

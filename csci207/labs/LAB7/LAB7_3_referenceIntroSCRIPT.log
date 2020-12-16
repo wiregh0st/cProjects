@@ -1,0 +1,51 @@
+Script started on 2019-03-28 23:45:43-0400
+]0;millerm30@hopper: ~/CSCI207/LABS/LAB7millerm30@hopper:~/CSCI207/LABS/LAB7$ LAB7_1_triangleFormula[KLAB7_1_triangleFormula[KLAB7_1_triangleFormulascript LAB7_1_triangleFormulaScript.log[17PLAB7_1_triangleFormulag++ -o LAB7_1_triangleFormula LAB7_1_trianggleFormula.cpp[A]0;millerm30@hopper: ~/CSCI207/LABS/LAB7millerm30@hopper:~/CSCI207/LABS/LAB7$ [20PLAB7_1_triangleFormula
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cg++ -o LAB7_1_triangleFormula LAB7_1_trianggleFormula.cpp[A]0;millerm30@hopper: ~/CSCI207/LABS/LAB7millerm30@hopper:~/CSCI207/LABS/LAB7$ [20PLAB7_1_triangleFormula
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cscript LAB7_1_triangleFormulaScript.log[17PLAB7_1_triangleFormula[KLAB7_43_[K[K[K3_refenceIntro
+LAB7_3_refenceIntro: command not found
+]0;millerm30@hopper: ~/CSCI207/LABS/LAB7millerm30@hopper:~/CSCI207/LABS/LAB7$ LAB7_4_[K[K3_)[KreferenceIntro
+Enter a value: f
+You entered an incorrect value. Please enter a number: f
+
+You entered an incorrect value. Please enter a number: f
+
+error... exiting program]0;millerm30@hopper: ~/CSCI207/LABS/LAB7millerm30@hopper:~/CSCI207/LABS/LAB7$ LAB7_3_referenceIntro
+Enter a value: f
+You entered an incorrect value. Please enter a number: f
+
+You entered an incorrect value. Please enter a number: 2
+
+Enter a value: f
+You entered an incorrect value. Please enter a number: f
+
+You entered an incorrect value. Please enter a number: f
+
+error... exiting program]0;millerm30@hopper: ~/CSCI207/LABS/LAB7millerm30@hopper:~/CSCI207/LABS/LAB7$ LAB7_3_referenceIntro
+Enter a value: 2
+Enter a value: 2
+Enter a value: f
+You entered an incorrect value. Please enter a number: f
+
+You entered an incorrect value. Please enter a number: f
+
+error... exiting program]0;millerm30@hopper: ~/CSCI207/LABS/LAB7millerm30@hopper:~/CSCI207/LABS/LAB7$ LAB7_3_referenceIntro
+Enter a value: 100
+Enter a value: 200
+Enter a value: 300
+num2 is max in function 1.
+num 3 is max of function 2.
+]0;millerm30@hopper: ~/CSCI207/LABS/LAB7millerm30@hopper:~/CSCI207/LABS/LAB7$ LAB7_3_referenceIntro
+Enter a value: 100
+Enter a value: 300
+Enter a value: 200
+num2 is max in function 1.
+num 2 is max of function 2.
+]0;millerm30@hopper: ~/CSCI207/LABS/LAB7millerm30@hopper:~/CSCI207/LABS/LAB7$ LAB7_3_referenceIntro
+Enter a value: 300
+Enter a value: 200
+Enter a value: 100
+num1 is max of function 1.
+num 1 is max of function 2.
+]0;millerm30@hopper: ~/CSCI207/LABS/LAB7millerm30@hopper:~/CSCI207/LABS/LAB7$ exit
+
+Script done on 2019-03-28 23:48:21-0400
